@@ -1,2 +1,1 @@
-# git-basics
-Repository for Git course.
+New content for the file
